@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: example.com
+    - host: www.citizenek.shop
       http:
         paths:
           - path: "/"

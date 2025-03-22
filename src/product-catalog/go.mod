@@ -4,6 +4,7 @@ go 1.22.7
 
 toolchain go1.22.9
 
+
 require (
 	github.com/open-feature/go-sdk v1.14.0
 	github.com/open-feature/go-sdk-contrib/hooks/open-telemetry v0.3.4
